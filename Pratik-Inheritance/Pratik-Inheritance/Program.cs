@@ -10,7 +10,7 @@ class Program
         Console.WriteLine();
 
         // Örnek bir öğretmen nesnesi oluşturulup, değerler atanır
-        Ogretmen ogretmen = new Ogretmen{Ad = "Yılmaz",Soyad = "Kara",Maas = 7500};
+        Ogretmen ogretmen = new Ogretmen{Ad = "Yılmaz",Soyad = "Kara",Maas = 35000};
         ogretmen.OgretmenBilgisiYazdir();
     }
 }
