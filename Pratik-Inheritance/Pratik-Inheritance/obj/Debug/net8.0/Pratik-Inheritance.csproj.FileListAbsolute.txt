@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\bin\Debug\net8.0\Pratik-Inheritance.exe
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\bin\Debug\net8.0\Pratik-Inheritance.deps.json
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\bin\Debug\net8.0\Pratik-Inheritance.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\bin\Debug\net8.0\Pratik-Inheritance.dll
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\bin\Debug\net8.0\Pratik-Inheritance.pdb
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\obj\Debug\net8.0\Pratik-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\obj\Debug\net8.0\Pratik-Inheritance.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\obj\Debug\net8.0\Pratik-Inheritance.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\obj\Debug\net8.0\Pratik-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\obj\Debug\net8.0\Pratik-Inheritance.dll
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\obj\Debug\net8.0\refint\Pratik-Inheritance.dll
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\obj\Debug\net8.0\Pratik-Inheritance.pdb
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\obj\Debug\net8.0\Pratik-Inheritance.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-Inheritance\Pratik-Inheritance\obj\Debug\net8.0\ref\Pratik-Inheritance.dll
